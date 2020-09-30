@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SchulTestProjekt</string>
+    <string name="title">Dies ist ein Titel!</string>
+    <string name="button_red">Rot</string>
+    <string name="button_yellow">Gelb</string>
+    <string name="button_end">Ende</string>
+</resources>
